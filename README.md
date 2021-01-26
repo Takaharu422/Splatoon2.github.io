@@ -1,1 +1,1 @@
-# Splatoon2.github.io-
+# Splatoon2.github.io
