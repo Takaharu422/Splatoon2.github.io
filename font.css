@@ -5,10 +5,9 @@
 h1 {
   font-family: 'tare';
 }  
-@font-face {
-  font-family: 'tare';
-  src: url('font/FOT-RowdyStd-EB.ttf') format('truetype');
-}
 h2 {
+  font-family: 'tare';
+}
+ a {
   font-family: 'tare';
 }
