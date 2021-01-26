@@ -14,14 +14,14 @@ h2 {
   font-family: 'tare';
   color: black;
 }
-a:hover {
+ a:hover {
   color: black;
 }
 
-a:active {
+ a:active {
   color: black;
 }
 
-a.no-color-change {
+ a.no-color-change {
   color: black;
 }
