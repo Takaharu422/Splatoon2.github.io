@@ -11,13 +11,3 @@ h2 {
  a {
   font-family: 'tare';
 }
-@media screen and (max-width: 480px) {
-h1 {
-  font-size : 15px ; 
-}
-h2 {
-  font-size : 15px ; 
-}  
- p {
-  font-size : 15px ; 
-}
