@@ -1,69 +1,45 @@
-.btn-social-long-twitter {
-  color: #FFF;
-  border-radius: 7px;
+.btn-social-circle {
   display: inline-block;
+  position: relative;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: #FFF;
+  width: 50px;
   height: 50px;
-  width: 190px;
-  text-align: center;
+  line-height: 30px;
+  padding: 5px;
   font-size: 25px;
-  line-height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: bold;
+  box-shadow: inset 0 2px 0px rgba(255, 255, 255, 0.25), inset 0 -2px 0px rgba(0, 0, 0, 0.18);
+  transition: .2s;
+}
+.btn-social-circle .fa {
+  line-height: 30px;
+}
+.btn-social-circle:hover {
+  box-shadow: none;
+}
+
+.btn-social-circle--twitter {
   background: #1da1f3;
-  overflow: hidden;
-  text-decoration:none;
+  border: solid 5px #1da1f3;
 }
 
-.btn-social-long-twitter .fa-twitter {
-  text-shadow: 2px 2px 0px #4287d6;
-  font-size: 30px;
-}
-
-.btn-social-long-twitter span {
-  display:inline-block;
-  transition: .5s;
-}
-
-.btn-social-long-twitter:hover span {
-  -webkit-transform: rotateX(360deg);
-  transform: rotateX(360deg);
-}
-.btn-social-long-youtube {
-  color: #FFF;
-  border-radius: 7px;
-  display: inline-block;
-  height: 50px;
-  width: 190px;
-  text-align: center;
-  font-size: 25px;
-  line-height: 50px;
-  background: #ff4500;
-  overflow: hidden;
-  text-decoration:none;
-}
-
-.btn-social-long-youtube .fa-youtube {
-  text-shadow: 2px 2px 0px #4287d6;
-  font-size: 30px;
-}
-
-.btn-social-long-youtube span {
-  display:inline-block;
-  transition: .5s;
-}
-
-.btn-social-long-youtube:hover span {
-  -webkit-transform: rotateX(360deg);
-  transform: rotateX(360deg);
-}
 @font-face {
   font-family: 'tare';
   src: url('font/FOT-RowdyStd-EB.ttf') format('truetype');
 }
+
 h1 {
   font-family: 'tare';
 }  
+
 h2 {
   font-family: 'tare';
 }
+
  a {
   font-family: 'tare';
 }
