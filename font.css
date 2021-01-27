@@ -1,3 +1,31 @@
+.btn-social-long-twitter {
+  color: #FFF;
+  border-radius: 7px;
+  display: inline-block;
+  height: 50px;
+  width: 190px;
+  text-align: center;
+  font-size: 25px;
+  line-height: 50px;
+  background: #1da1f3;
+  overflow: hidden;
+  text-decoration:none;
+}
+
+.btn-social-long-twitter .fa-twitter {
+  text-shadow: 2px 2px 0px #4287d6;
+  font-size: 30px;
+}
+
+.btn-social-long-twitter span {
+  display:inline-block;
+  transition: .5s;
+}
+
+.btn-social-long-twitter:hover span {
+  -webkit-transform: rotateX(360deg);
+  transform: rotateX(360deg);
+}
 @font-face {
   font-family: 'tare';
   src: url('font/FOT-RowdyStd-EB.ttf') format('truetype');
