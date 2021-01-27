@@ -27,6 +27,11 @@
   border: solid 5px #1da1f3;
 }
 
+.btn-social-circle--youtube {
+  background: #ef4d4d;
+  border: solid 5px #ef4d4d;
+}
+
 @font-face {
   font-family: 'tare';
   src: url('font/FOT-RowdyStd-EB.ttf') format('truetype');
