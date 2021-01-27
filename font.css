@@ -26,6 +26,34 @@
   -webkit-transform: rotateX(360deg);
   transform: rotateX(360deg);
 }
+.btn-social-long-youtube {
+  color: #FFF;
+  border-radius: 7px;
+  display: inline-block;
+  height: 50px;
+  width: 190px;
+  text-align: center;
+  font-size: 25px;
+  line-height: 50px;
+  background: #ff4500;
+  overflow: hidden;
+  text-decoration:none;
+}
+
+.btn-social-long-youtube .fa-twitter {
+  text-shadow: 2px 2px 0px #4287d6;
+  font-size: 30px;
+}
+
+.btn-social-long-youtube span {
+  display:inline-block;
+  transition: .5s;
+}
+
+.btn-social-long-youtube:hover span {
+  -webkit-transform: rotateX(360deg);
+  transform: rotateX(360deg);
+}
 @font-face {
   font-family: 'tare';
   src: url('font/FOT-RowdyStd-EB.ttf') format('truetype');
