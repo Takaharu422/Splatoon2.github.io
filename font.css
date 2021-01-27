@@ -1,5 +1,7 @@
 body {
   background-image: url("image/background/backgroundjpg");
+  background-repeat:no-repeat;
+  background-size:cover;
 }
 .btn-social-long-twitter {
   color: #FFF;
