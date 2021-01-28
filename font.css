@@ -28,4 +28,7 @@ script {
   body {
     background-color: #000;
     color: #fff;
+  }
+  a {
+    color: #f00;
 }
