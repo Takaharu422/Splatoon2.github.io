@@ -26,9 +26,6 @@ script {
 }
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #696969;
+    background-color: #555555;
     color: #fff;
-}
- a {
-    color: #0f0;
 }
