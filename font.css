@@ -18,18 +18,23 @@ h2 {
   text-align: center;
   color: #0000ff;
 }
+
 script {
   font-family: 'tare';
   text-align: center;
 }
+
 .hoge {
   text-align: center;
 }
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #222222;
     color: #fff;
   }
+  
   a {
     color: #f00;
+  }
 }
