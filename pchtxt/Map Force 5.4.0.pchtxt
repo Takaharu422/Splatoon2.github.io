@@ -1,0 +1,290 @@
+@nsobid-32A8F031861B76DF3D1080E6A52FE0B0
+#Splatoon 2 5.4.0
+############
+#Map Force #
+############
+
+@flag offset_shift 0x100
+
+// One Player Private Battles [OatmealDome]
+@enabled
+00371E78 1F2003D51F2003D509000014
+00379338 1F2003D51F2003D509000014
+014C1CE8 21008052
+014DEFD0 1F2003D5
+014DFB14 21008052
+
+// Force PrivateMatch [Takaharu]
+@enabled
+014C7EE4 F0000094
+014C7F18 E3000094
+
+// WalkThrough Is Versus [Takaharu]
+@enabled
+014B31F4 08DD3691
+
+// Map Force (Fld_Carousel00_Vss) [Takaharu]
+@disabled
+003355D8 800280D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Ditch02_Vss) [Takaharu]
+@disabled
+003355D8 000080D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Unduck00_Vss) [Takaharu]
+@disabled
+003355D8 200080D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Venue02_Vss) [Takaharu]
+@disabled
+003355D8 400080D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Nagasaki00_Vss) [Takaharu]
+@disabled
+003355D8 600080D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Upland00_Vss) [Takaharu]
+@disabled
+003355D8 800080D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Wave00_Vss) [Takaharu]
+@disabled
+003355D8 A00080D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Pillar00_Vss) [Takaharu]
+@disabled
+003355D8 C00080D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Amida01_Vss) [Takaharu]
+@disabled
+003355D8 E00080D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Tuzura00_Vss) [Takaharu]
+@disabled
+003355D8 000180D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Kawa00_Vss) [Takaharu]
+@disabled
+003355D8 200180D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Maze02_Vss) [Takaharu]
+@disabled
+003355D8 400180D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_SkatePark02_Vss) [Takaharu]
+@disabled
+003355D8 600180D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_SkatePark01_Vss) [Takaharu]
+@disabled
+003355D8 E00280D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Tunnel02_Vss) [Takaharu]
+@disabled
+003355D8 800180D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Line00_Vss) [Takaharu]
+@disabled
+003355D8 A00180D2C0035FD6
+00376BF0 09000014
+
+
+// Map Force (Fld_Warehouse01_Vss) [Takaharu]
+@disabled
+003355D8 C00180D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_UpDown01_Vss) [Takaharu]
+@disabled
+003355D8 E00180D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Athletic01_Vss) [Takaharu]
+@disabled
+003355D8 000280D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Quarry01_Vss) [Takaharu]
+@disabled
+003355D8 200280D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Court00_Vss) [Takaharu]
+@disabled
+003355D8 400280D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Tunnel00_Vss) [Takaharu]
+@disabled
+003355D8 200380D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Nakasu00_Vss) [Takaharu]
+@disabled
+003355D8 400380D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Shakeup00_Cop) [Takaharu]
+@disabled
+003355D8 007182D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Shakeship00_Cop) [Takaharu]
+@disabled
+003355D8 207182D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Shakeride00_Cop) [Takaharu]
+@disabled
+003355D8 807182D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Shakehouse00_Cop) [Takaharu]
+@disabled
+003355D8 407182D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Shakelift00_Cop) [Takaharu]
+@disabled
+003355D8 607182D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Mirror00_Vss) [Takaharu]
+@disabled
+003355D8 C00280D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa00_02_Vss) [Takaharu]
+@disabled
+003355D8 800C80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa01_2_Vss) [Takaharu]
+@disabled
+003355D8 A00C80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa02_2_Vss) [Takaharu]
+@disabled
+003355D8 C00C80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa03_2_Vss) [Takaharu]
+@disabled
+003355D8 E00C80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa05_Vss) [Takaharu]
+@disabled
+003355D8 200D80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa06_Vss) [Takaharu]
+@disabled
+003355D8 400D80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa07_Vss) [Takaharu]
+@disabled
+003355D8 600D80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa08_Vss) [Takaharu]
+@disabled
+003355D8 800D80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa09_Vss) [Takaharu]
+@disabled
+003355D8 A00D80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa10_Vss) [Takaharu]
+@disabled
+003355D8 C00D80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa11_Vss) [Takaharu]
+@disabled
+003355D8 E00D80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa12_Vss) [Takaharu]
+@disabled
+003355D8 000E80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa13_Vss) [Takaharu]
+@disabled
+003355D8 200E80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa14_Vss) [Takaharu]
+@disabled
+003355D8 400E80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa15_Vss) [Takaharu]
+@disabled
+003355D8 600E80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa16_Vss) [Takaharu]
+@disabled
+003355D8 800E80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa17_Vss) [Takaharu]
+@disabled
+003355D8 A00E80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa18_Vss) [Takaharu]
+@disabled
+003355D8 C00E80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa19_Vss) [Takaharu]
+@disabled
+003355D8 E00E80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa20_Vss) [Takaharu]
+@disabled
+003355D8 000F80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa21_Vss) [Takaharu]
+@disabled
+003355D8 200F80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa22_Vss) [Takaharu]
+@disabled
+003355D8 400F80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa23_Vss) [Takaharu]
+@disabled
+003355D8 600F80D2C0035FD6
+00376BF0 09000014
+
+// Map Force (Fld_Deli_Octa24_Vss) [Takaharu]
+@enabled
+003355D8 800F80D2C0035FD6
+00376BF0 09000014
