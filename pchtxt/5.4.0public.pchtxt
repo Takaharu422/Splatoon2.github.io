@@ -63,7 +63,7 @@
 010F2A8C C0035FD6
 
 // Force Agent 3 Cape [Haxxie]
-@enabled
+@disabled
 01029A30 20008052C0035FD6
 
 // Infinite Power Clams [Haxxie]
