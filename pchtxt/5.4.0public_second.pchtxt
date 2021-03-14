@@ -622,10 +622,6 @@
 @enabled
 0116B2B4 01000014
 
-// Fast Respawn [Takaharu]
-@enabled
-01103538 20008052C0035FD6
-
 // Can't Swim [Takaharu]
 @disabled
 0100176C 02000014
