@@ -7,6 +7,9 @@
 
 @flag offset_shift 0x100
 
+@enabled
+000E23A0 C0035FD6
+
 // One Player Private Battles [OatmealDome]
 @enabled
 00371E78 1F2003D51F2003D509000014
